@@ -2,46 +2,59 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 网页介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎来到 **GameBeats** - 游戏玩家与音乐爱好者的终极天堂！
 
-## Getting Started
+## 关于我们
 
-Get started by **creating a new site**.
+GameBeats 是一个专注于**联机游戏体验**的创新平台。我们致力于为游戏玩家提供最佳的多人游戏体验，让您与朋友一起享受游戏的乐趣。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 联机功能特色
 
-### What you'll need
+### 🎮 实时联机对战
+- 支持多种游戏模式的实时对战
+- 低延迟的服务器连接
+- 智能匹配系统，找到最适合的对手
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### 🎵 音乐游戏专区
+- 节奏游戏联机对战
+- 音乐创作与分享
+- 实时音乐同步播放
 
-## Generate a new site
+### 👥 社交功能
+- 创建私人游戏房间
+- 邀请好友一起游戏
+- 实时语音聊天
+- 游戏成就分享
 
-Generate a new Docusaurus site using the **classic template**.
+### 🌐 跨平台支持
+- 支持 PC、移动设备
+- 云端存档同步
+- 随时随地继续游戏
 
-The classic template will automatically be added to your project after you run the command:
+## 技术优势
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **高性能服务器**：确保流畅的联机体验
+- **智能匹配算法**：快速找到合适的游戏伙伴
+- **安全防护**：保护您的游戏账号安全
+- **持续更新**：定期推出新功能和游戏模式
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 开始体验
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+1. **注册账号**：快速创建您的游戏账号
+2. **选择游戏**：浏览丰富的游戏库
+3. **邀请好友**：与朋友一起享受联机乐趣
+4. **分享成就**：在社区中展示您的游戏技巧
 
-## Start your site
+## 支持我们
 
-Run the development server:
+如果您喜欢我们的项目，欢迎在 GitHub 上给我们点个 ⭐ **Star**！
 
-```bash
-cd my-website
-npm run start
-```
+您的支持是我们持续改进的动力！
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+[![GitHub stars](https://img.shields.io/github/stars/wilhelmaoi/readog?style=social)](https://github.com/wilhelmaoi/readog)
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+---
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+*让我们一起在 GameBeats 中创造属于您的游戏传奇！*
